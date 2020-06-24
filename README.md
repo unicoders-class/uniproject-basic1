@@ -16,3 +16,4 @@ Iniciando trabalho em equipe com Github e projetos em C
 ## Contribuitors:
 
 * [Renan Winter](https://www.github.com/rwspatin)
+* [Adriel Arruda](https://github.com/Adriel-Arruda)
