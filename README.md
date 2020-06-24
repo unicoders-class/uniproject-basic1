@@ -17,3 +17,4 @@ Iniciando trabalho em equipe com Github e projetos em C
 
 * [Renan Winter](https://www.github.com/rwspatin)
 * [Fabrício Lima](https://www.github.com/Fabriciooml)
+* [Marco Arruda](https://www.github.com/MarcoAAArruda)
