@@ -10,6 +10,8 @@ Iniciando trabalho em equipe com Github e projetos em C
 - Criar uma solução que dado um número x seja impresso o simbolo * x vezes na tela
 	`Input: 10`
 	`Output: **********`
+- Subir essa solução neste repositório (a solução deverá possuir seu nome)
+- Adicionar seu nome no Contribuitors
 
 ## Contribuitors:
 
