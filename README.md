@@ -19,4 +19,4 @@ Iniciando trabalho em equipe com Github e projetos em C
 * [Adriel Arruda](https://github.com/Adriel-Arruda)
 * [Fabrício Lima](https://www.github.com/Fabriciooml)
 * [Marco Arruda](https://www.github.com/MarcoAAArruda)
-* [cleibermarques](https://github.com/cleibermarques)
+* [Cleiber Marques](https://github.com/cleibermarques)
