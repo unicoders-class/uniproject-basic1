@@ -15,4 +15,10 @@ Iniciando trabalho em equipe com Github e projetos em C
 
 ## Contribuitors:
 
+<<<<<<< HEAD
 * [cleibermarques](https://github.com/cleibermarques)
+=======
+* [Renan Winter](https://www.github.com/rwspatin)
+* [Fabrício Lima](https://www.github.com/Fabriciooml)
+* [cleibermarques](https://github.com/cleibermarques)
+>>>>>>> a9791ad5f21d3114f5d3f1acfa2fbc3698ba190f
