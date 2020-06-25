@@ -27,3 +27,4 @@ Iniciando trabalho em equipe com Github e projetos em C
 * [Marco Arruda](https://www.github.com/MarcoAAArruda)
 
 >>>>>>> 5b9fa18a6a20fca526f2545d6bc70d3336c449cf
+* [Gabriel Faria](https://github.com/Fariagabs)
